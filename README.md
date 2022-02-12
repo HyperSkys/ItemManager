@@ -22,7 +22,7 @@ This project was made in Java 8, so I don't know why I have to say this you cann
 
 ### Credits
 
-Thanks to BadBird5907 by allowing me to use his EventBus it was really helpful for this project as I am very dumb and also very lazy, so yeah thanks to him.
+Thanks to [BadBird5907](https://github.com/Badbird-5907) by allowing me to use his EventBus it was really helpful for this project as I am very dumb and also very lazy, so yeah thanks to him.
 
 
 ## License
