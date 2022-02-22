@@ -21,7 +21,7 @@ body:
     attributes:
       label: Project Version
       description: What version of this project are you using?
-      placeholder: 1.0.1-RELEASE
+      placeholder: 1.0.2-RELEASE
     validations:
       required: true
   - type: input
